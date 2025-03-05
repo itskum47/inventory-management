@@ -1,6 +1,0 @@
-Java 17
-Maven 3.8.6
-Node.js 18
-PostgreSQL 14+
-Docker
-
